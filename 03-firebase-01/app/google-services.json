@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744267935668",
+    "project_id": "moviles-2020b-software-vaes",
+    "storage_bucket": "moviles-2020b-software-vaes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744267935668:android:0a1205ed54004016fe8ce1",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744267935668-9g37speciu1n86hpmf3pf0j4rn58k4do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClkr58ileoejEBtm7pwYFOZetpfKv9EXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744267935668-9g37speciu1n86hpmf3pf0j4rn58k4do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
